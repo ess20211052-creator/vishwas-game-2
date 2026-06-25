@@ -1,5 +1,5 @@
 {
-    "name": "Vishwa’s game 2",
+    "name": "jump world-i v1.14.4",
     "description": "",
     "dependencies": {
         "device": "*"
@@ -17,7 +17,7 @@
         "test.ts"
     ],
     "targetVersions": {
-        "target": "2.0.63",
+        "target": "4.0.14",
         "targetId": "arcade"
     },
     "supportedTargets": [
